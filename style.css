@@ -1,0 +1,19 @@
+
+
+.h1
+{
+    color:aqua;
+}
+
+body{
+    text-align:center;
+}
+
+canvas
+{
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px silver;
+}
+
+
+
